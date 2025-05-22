@@ -1,3 +1,9 @@
+---
+title: "Hitsink - Antweight combat robot (plastic)"
+author: "gabe and mason (masoa on slack)"
+description: "combat robot that combats robots"
+created_at: "2025-05-1w"
+---
 
 5/12 3 hours
 we started cading on the 12th cause i saw the channel in the slack and wanted to jump on it
