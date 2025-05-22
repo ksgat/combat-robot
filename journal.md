@@ -2,7 +2,7 @@
 title: "Hitsink - Antweight combat robot (plastic)"
 author: "gabe and mason (masoa on slack)"
 description: "combat robot that combats robots"
-created_at: "2025-05-1w"
+created_at: "2025-05-12"
 ---
 
 5/12 3 hours
