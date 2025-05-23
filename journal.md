@@ -37,3 +37,10 @@ Addtionally, i think goals need to be outlined formally so heres the goals
 - be reasonable costs and finish quickly before summer ends as both of us are travelling
 
 also v1 and v2 share the same wheels
+
+5-22 & 5-23 1 hour
+
+![image](https://github.com/user-attachments/assets/1c3bfab7-1f4f-4877-b6f9-969d0849846f)
+
+added wiring diagram very bad i dont normally do these
+
