@@ -1,8 +1,11 @@
 # combat-robot
 ---
 title: Hitsink
+
 author: @masoa/mas0a & @gabe/ksgat
+
 description: We are building a fully custom antweight combat robot
+
 created_at: "2025-05-01"
 ---
 
