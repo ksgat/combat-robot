@@ -46,8 +46,8 @@ Pocket Radio Controller (M2)	1	64.99
 Radiomaster ER4 reciever	1	14.99
 
 Sales tax/shipping	$40
-[ASSEMBLY GUIDE:
-]([url](https://github.com/ksgat/combat-robot/blob/main/build%20guide/Combat%20Bot%20Assembly.pdf))
+[ASSEMBLY GUIDE](https://github.com/ksgat/combat-robot/blob/main/build%20guide/Combat%20Bot%20Assembly.pdf)
+
 
 ![image](https://github.com/user-attachments/assets/ef175886-0d0e-41c9-ae1a-6273b7dfea27)
 
