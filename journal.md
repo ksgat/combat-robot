@@ -44,3 +44,27 @@ also v1 and v2 share the same wheels
 
 added wiring diagram very bad i dont normally do these
 
+
+
+(copy pasted from my notes app sorry! thank you though for everything)
+
+august 7th | BUILD DAY!!!
+
+mason went to vietnam so we were out for a long time and getting that momentum and printing was slow, but ill have to crunch
+
+we didnt print the tpu absorber but it should be fine (i hope! but yeah hitsink will make its combat premier with the absorber)
+
+building will be pretty boring since this is basically a kit the way we designed it it just fits together seamlessly, perfect tolerances lol
+
+refer to build guide honestly it goes together EXACTLY how we wrote it out.
+
+note: used gorilla glue instead of epoxy for the wheels
+
+augst 7th the second
+
+i burnt out the esc we thought it said 20 it was actually 2! unfortunate but we improvise, im using the controller boards off of the mg996r servos now (from other projects), we should probably switch to a proper solution but this works okay and should push, alot cooolertoo, idk diamonds and coal or something about pressure idk
+
+
+this build was great, not much too it though most of the work was in the design (shoutout masons bambu p1 (idk if it was an s or p)) the prints were so dialed in it genuienly felt like shipped in the purest sense like i could sell these parts to someone and they would have a flawless experience
+
+thank you to the highway team this was awesome i cant wait to compete
