@@ -8,7 +8,11 @@ description: We are building a fully custom antweight combat robot
 
 created_at: "2025-05-01"
 ---
+Demo vid: 
 
+https://youtube.com/shorts/dfMprFvynx0
+
+combat coming soon trust
 
 bored side quest for two stem scholars
 
