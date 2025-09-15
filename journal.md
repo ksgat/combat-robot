@@ -68,3 +68,20 @@ i burnt out the esc we thought it said 20 it was actually 2! unfortunate but we 
 this build was great, not much too it though most of the work was in the design (shoutout masons bambu p1 (idk if it was an s or p)) the prints were so dialed in it genuienly felt like shipped in the purest sense like i could sell these parts to someone and they would have a flawless experience
 
 thank you to the highway team this was awesome i cant wait to compete
+
+
+here are all the build pictures i got bro 
+chopped soldering (i ran out but we redid it later)
+<img width="860" height="968" alt="image" src="https://github.com/user-attachments/assets/8c187634-5530-4feb-8a8e-acc6b774c6fc" />
+
+midway through assembly
+<img width="834" height="680" alt="image" src="https://github.com/user-attachments/assets/3b4428c1-7932-4196-b375-d0d589357cf1" />
+
+final product pre demo (no blades without enclosure!)
+<img width="877" height="791" alt="image" src="https://github.com/user-attachments/assets/992a6380-7a2b-43af-894c-5f2a18d3b72b" />
+
+and damage done on bad chassis print (tolerances and print settings were off, damage is  due to the later).
+<img width="796" height="909" alt="image" src="https://github.com/user-attachments/assets/461fdcb9-2a52-4513-a9e7-96c21b65535b" />
+
+
+
