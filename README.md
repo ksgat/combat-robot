@@ -12,6 +12,9 @@ Demo vid:
 
 https://youtube.com/shorts/dfMprFvynx0
 
+
+<img width="720" height="649" alt="image" src="https://github.com/user-attachments/assets/77fde554-cf7f-4300-872a-d591027e42e2" />
+
 combat coming soon trust
 
 bored side quest for two stem scholars
